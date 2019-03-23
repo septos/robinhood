@@ -1,0 +1,15 @@
+body{
+  background-color: #AFC2BE;
+  padding: 4rem 0rem;
+}
+
+.container,
+.container-fluid{
+  background-color: #10abc0;
+  // border-radius: 0.3em;
+  padding: 2em;
+}
+
+.container-fluid{
+  margin-top: 4em;
+}
